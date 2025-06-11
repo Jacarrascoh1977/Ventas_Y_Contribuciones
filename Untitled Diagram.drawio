@@ -1316,7 +1316,7 @@
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5dRudZMA0Y6KIkxW6422-464" value="VBAP: " style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
+        <mxCell id="5dRudZMA0Y6KIkxW6422-464" value="VBAP: &#xa;Documento de ventas: Datos de posición" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
           <mxGeometry x="1000" y="980" width="250" height="210" as="geometry">
             <mxRectangle x="120" y="120" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1399,7 +1399,7 @@
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5dRudZMA0Y6KIkxW6422-528" value="VBKD" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
+        <mxCell id="5dRudZMA0Y6KIkxW6422-528" value="VBKD &#xa;Documento de ventas: Datos comerciales" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="1440" width="250" height="210" as="geometry" />
         </mxCell>
         <mxCell id="5dRudZMA0Y6KIkxW6422-529" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="5dRudZMA0Y6KIkxW6422-528" vertex="1">
@@ -1509,7 +1509,7 @@
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5dRudZMA0Y6KIkxW6422-566" value="VBRK" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
+        <mxCell id="5dRudZMA0Y6KIkxW6422-566" value="VBRK Factura: Datos de cabecera" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="1280" width="250" height="420" as="geometry" />
         </mxCell>
         <mxCell id="5dRudZMA0Y6KIkxW6422-567" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="5dRudZMA0Y6KIkxW6422-566" vertex="1">
@@ -1681,7 +1681,7 @@
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5dRudZMA0Y6KIkxW6422-582" value="VBRP" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#99CCFF;" parent="1" vertex="1">
+        <mxCell id="5dRudZMA0Y6KIkxW6422-582" value="VBRP Factura: Datos de posición" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
           <mxGeometry x="1300" y="540" width="250" height="900" as="geometry" />
         </mxCell>
         <mxCell id="5dRudZMA0Y6KIkxW6422-583" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="5dRudZMA0Y6KIkxW6422-582" vertex="1">
@@ -2061,7 +2061,7 @@
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="doeJyOA5H3NOaQOsGiLa-9" value="VBPA" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
+        <mxCell id="doeJyOA5H3NOaQOsGiLa-9" value="VBPA Documento comercial: Interlocutor" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="1280" width="250" height="240" as="geometry" />
         </mxCell>
         <mxCell id="doeJyOA5H3NOaQOsGiLa-10" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="doeJyOA5H3NOaQOsGiLa-9" vertex="1">
