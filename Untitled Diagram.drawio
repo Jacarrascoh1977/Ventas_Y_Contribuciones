@@ -2718,6 +2718,26 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="m_V79sZ0BkIqIC_uqhI4-236" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5dRudZMA0Y6KIkxW6422-583" target="5dRudZMA0Y6KIkxW6422-174">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1330" y="495" />
+              <mxPoint x="1330" y="320" />
+              <mxPoint x="930" y="320" />
+              <mxPoint x="930" y="405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m_V79sZ0BkIqIC_uqhI4-237" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5dRudZMA0Y6KIkxW6422-586" target="5dRudZMA0Y6KIkxW6422-177">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1300" y="525" />
+              <mxPoint x="1300" y="340" />
+              <mxPoint x="940" y="340" />
+              <mxPoint x="940" y="435" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
